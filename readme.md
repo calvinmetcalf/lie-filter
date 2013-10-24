@@ -12,7 +12,7 @@ npm install lie-filter
 var filter = require('lie-filter');
 ```
 
-###resolve
+###filter
 
 ```javascript
 filter(array, function)
