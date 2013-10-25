@@ -1,6 +1,6 @@
 {
   "name": "lie-filter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "filter out the lies",
   "main": "lib/filter.js",
   "scripts": {
@@ -28,8 +28,7 @@
     "lie-resolve": "~0.1.0"
   },
   "dependencies": {
-    "lie-quickmap": "~0.1.2",
-    "lie-cast": "~0.1.1",
-    "lie-some": "~0.1.1"
+    "lie-zipwith": "~0.1.0",
+    "lie-map": "~0.1.3"
   }
 }
